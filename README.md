@@ -1,6 +1,6 @@
 # README
 
-| Nama          | NIM          | Kelas  |
-|---------------|--------------|--------|
-| Sektio ugroho | 22104410071  | TI B   |
+| Nama           | NIM          | Kelas  |
+|--------------- |--------------|--------|
+| Sektio Nugroho | 22104410071  | TI B   |
 
